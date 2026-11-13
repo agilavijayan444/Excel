@@ -1,2 +1,2 @@
 # Excel-For-Data Analytics
-This repository contains all practice files and assignment of data analysis using excel.
+Exploring Microsoft Excel through hands-on tasks, formulas, functions, data cleaning, and practical spreadsheet exercises.
